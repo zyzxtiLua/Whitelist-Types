@@ -1,0 +1,4 @@
+local hwidList = {
+  "b7cf9ea26ef761379570fd00dfb20e4f"
+}
+return hwidList
